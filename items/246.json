@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-portal-scroll",
+  "name": "Consumables Portal Scroll",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-portal-scroll",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-portal-scroll/consumables-portal-scroll-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-portal-scroll/consumables-portal-scroll.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 331,
+  "generated_at": "2026-03-20T12:15:37.029673+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-portal-scroll/consumables-portal-scroll-thumb.png"
+}

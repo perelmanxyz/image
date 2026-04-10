@@ -1,0 +1,22 @@
+{
+  "id": "meshy-pets-robot-dog",
+  "name": "Pets Robot Dog",
+  "category": "pets",
+  "xla_id": "XLA-RBT33007",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-robot-dog/pets-robot-dog-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-robot-dog/pets-robot-dog.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 167,
+  "generated_at": "2026-03-20T12:29:35.316217+00:00",
+  "boxed_glb": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-robot-dog/boxed.glb",
+  "boxed_thumbnail": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-robot-dog/thumbnails/boxed_front.png",
+  "boxed_thumbnails": {
+    "boxed_front": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-robot-dog/thumbnails/boxed_front.png",
+    "boxed_front_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-robot-dog/thumbnails/boxed_front_hires.png",
+    "boxed_isometric": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-robot-dog/thumbnails/boxed_isometric.png",
+    "boxed_isometric_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-robot-dog/thumbnails/boxed_isometric_hires.png"
+  },
+  "label_url": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-robot-dog/label.png",
+  "postprocessed_at": "2026-03-29T16:49:38.893477+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-robot-dog/pets-robot-dog-thumb.png"
+}

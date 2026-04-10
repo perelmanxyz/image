@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-medal-champion",
+  "name": "Primary Medal Champion",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-medal-champion",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-medal-champion/primary-medal-champion-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-medal-champion/primary-medal-champion.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 152,
+  "generated_at": "2026-03-20T12:34:23.983836+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-medal-champion/primary-medal-champion-thumb.png"
+}

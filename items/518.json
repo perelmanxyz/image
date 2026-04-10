@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-hand-cannon",
+  "name": "Weapons Hand Cannon",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-hand-cannon",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-hand-cannon/weapons-hand-cannon-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-hand-cannon/weapons-hand-cannon.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 152,
+  "generated_at": "2026-03-20T13:04:13.141593+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-hand-cannon/weapons-hand-cannon-thumb.png"
+}

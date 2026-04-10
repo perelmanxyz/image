@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-tank-mini",
+  "name": "Vehicles Tank Mini",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-tank-mini",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-tank-mini/vehicles-tank-mini-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-tank-mini/vehicles-tank-mini.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 304,
+  "generated_at": "2026-03-20T13:04:28.231706+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-tank-mini/vehicles-tank-mini-thumb.png"
+}

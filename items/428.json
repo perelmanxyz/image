@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-disruptor-pistol",
+  "name": "Sci Fi Disruptor Pistol",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-disruptor-pistol",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-disruptor-pistol/sci-fi-disruptor-pistol-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-disruptor-pistol/sci-fi-disruptor-pistol.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 151,
+  "generated_at": "2026-03-20T12:44:08.175126+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-disruptor-pistol/sci-fi-disruptor-pistol-thumb.png"
+}

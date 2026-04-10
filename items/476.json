@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-space-coin",
+  "name": "Sci Fi Space Coin",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-space-coin",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-space-coin/sci-fi-space-coin-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-space-coin/sci-fi-space-coin.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 221,
+  "generated_at": "2026-03-20T12:55:36.725079+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-space-coin/sci-fi-space-coin-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-cyber-hacker",
+  "name": "Avatars Cyber Hacker",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-cyber-hacker",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-cyber-hacker/avatars-cyber-hacker-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-cyber-hacker/avatars-cyber-hacker.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 213,
+  "generated_at": "2026-03-20T11:53:33.081264+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-cyber-hacker/avatars-cyber-hacker-thumb.png"
+}

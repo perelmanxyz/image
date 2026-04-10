@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-combat-helmet",
+  "name": "Sci Fi Combat Helmet",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-combat-helmet",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-combat-helmet/sci-fi-combat-helmet-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-combat-helmet/sci-fi-combat-helmet.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 301,
+  "generated_at": "2026-03-20T12:45:58.710471+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-combat-helmet/sci-fi-combat-helmet-thumb.png"
+}

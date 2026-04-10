@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-laser-clean",
+  "name": "Sci Fi Laser Clean",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-laser-clean",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-laser-clean/sci-fi-laser-clean-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-laser-clean/sci-fi-laser-clean.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 311,
+  "generated_at": "2026-03-12T18:11:57.371276+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-laser-clean/sci-fi-laser-clean-thumb.png"
+}

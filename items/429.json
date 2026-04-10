@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-emp-device",
+  "name": "Sci Fi Emp Device",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-emp-device",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-emp-device/sci-fi-emp-device-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-emp-device/sci-fi-emp-device.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 281,
+  "generated_at": "2026-03-20T12:46:22.875949+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-emp-device/sci-fi-emp-device-thumb.png"
+}

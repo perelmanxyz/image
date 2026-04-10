@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-chaos-brew",
+  "name": "Fantasy Chaos Brew",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-chaos-brew",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-chaos-brew/fantasy-chaos-brew-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-chaos-brew/fantasy-chaos-brew.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 227,
+  "generated_at": "2026-03-20T12:15:59.487461+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-chaos-brew/fantasy-chaos-brew-thumb.png"
+}

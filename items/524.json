@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-longbow",
+  "name": "Weapons Longbow",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-longbow",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-longbow/weapons-longbow-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-longbow/weapons-longbow.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 82,
+  "generated_at": "2026-03-20T13:03:52.225802+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-longbow/weapons-longbow-thumb.png"
+}

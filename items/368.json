@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-game-cartridge",
+  "name": "Primary Game Cartridge",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-game-cartridge",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-game-cartridge/primary-game-cartridge-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-game-cartridge/primary-game-cartridge.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 358,
+  "generated_at": "2026-03-20T12:35:57.116173+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-game-cartridge/primary-game-cartridge-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fantasy-three-coins",
+  "name": "Fantasy Three Coins",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-three-coins",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-three-coins/fantasy-three-coins-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-three-coins/fantasy-three-coins.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 137,
+  "generated_at": "2026-03-12T17:22:29.289170+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-three-coins/fantasy-three-coins-thumb.png"
+}

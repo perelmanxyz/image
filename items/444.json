@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-ion-cannon",
+  "name": "Sci Fi Ion Cannon",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-ion-cannon",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-ion-cannon/sci-fi-ion-cannon-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-ion-cannon/sci-fi-ion-cannon.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 154,
+  "generated_at": "2026-03-20T12:47:33.861338+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-ion-cannon/sci-fi-ion-cannon-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-cyber-implant",
+  "name": "Sci Fi Cyber Implant",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-cyber-implant",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-cyber-implant/sci-fi-cyber-implant-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-cyber-implant/sci-fi-cyber-implant.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 226,
+  "generated_at": "2026-03-20T12:44:59.199137+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-cyber-implant/sci-fi-cyber-implant-thumb.png"
+}

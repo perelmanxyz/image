@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-thermal-visor",
+  "name": "Sci Fi Thermal Visor",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-thermal-visor",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-thermal-visor/sci-fi-thermal-visor-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-thermal-visor/sci-fi-thermal-visor.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 165,
+  "generated_at": "2026-03-20T12:56:21.239184+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-thermal-visor/sci-fi-thermal-visor-thumb.png"
+}

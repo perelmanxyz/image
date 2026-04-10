@@ -1,0 +1,12 @@
+{
+  "id": "avatars-bowman",
+  "name": "Avatars Bowman",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-bowman",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-bowman/avatars-bowman-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-bowman/avatars-bowman.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 214,
+  "generated_at": "2026-03-12T17:54:46.482447+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-bowman/avatars-bowman-thumb.png"
+}

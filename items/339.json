@@ -1,0 +1,22 @@
+{
+  "id": "meshy-pets-ice-owl",
+  "name": "Pets Ice Owl",
+  "category": "pets",
+  "xla_id": "XLA-CWL77805",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-ice-owl/pets-ice-owl-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-ice-owl/pets-ice-owl.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 242,
+  "generated_at": "2026-03-20T12:29:56.478429+00:00",
+  "boxed_glb": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-ice-owl/boxed.glb",
+  "boxed_thumbnail": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-ice-owl/thumbnails/boxed_front.png",
+  "boxed_thumbnails": {
+    "boxed_front": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-ice-owl/thumbnails/boxed_front.png",
+    "boxed_front_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-ice-owl/thumbnails/boxed_front_hires.png",
+    "boxed_isometric": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-ice-owl/thumbnails/boxed_isometric.png",
+    "boxed_isometric_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-ice-owl/thumbnails/boxed_isometric_hires.png"
+  },
+  "label_url": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-ice-owl/label.png",
+  "postprocessed_at": "2026-03-29T16:30:36.779181+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-ice-owl/pets-ice-owl-thumb.png"
+}

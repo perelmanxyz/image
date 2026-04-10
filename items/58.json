@@ -1,0 +1,12 @@
+{
+  "id": "primary-potion2",
+  "name": "Primary Potion2",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-potion2",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-potion2/primary-potion2-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-potion2/primary-potion2.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 204,
+  "generated_at": "2026-03-12T18:04:04.289435+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-potion2/primary-potion2-thumb.png"
+}

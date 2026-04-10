@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-crown-war",
+  "name": "Armor Crown War",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-crown-war",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-crown-war/armor-crown-war-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-crown-war/armor-crown-war.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 276,
+  "generated_at": "2026-03-20T12:04:35.116916+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-crown-war/armor-crown-war-thumb.png"
+}

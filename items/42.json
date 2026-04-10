@@ -1,0 +1,12 @@
+{
+  "id": "items-hammer",
+  "name": "Items Hammer",
+  "category": "items",
+  "xla_id": "XLA-ITEMS-items-hammer",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/items/items-hammer/items-hammer-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/items/items-hammer/items-hammer.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 233,
+  "generated_at": "2026-03-12T18:00:40.663457+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/items/items-hammer/items-hammer-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-badge-elite",
+  "name": "Primary Badge Elite",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-badge-elite",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-badge-elite/primary-badge-elite-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-badge-elite/primary-badge-elite.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 143,
+  "generated_at": "2026-03-20T12:31:19.404266+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-badge-elite/primary-badge-elite-thumb.png"
+}

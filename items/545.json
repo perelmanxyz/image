@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-whip-chain",
+  "name": "Weapons Whip Chain",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-whip-chain",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-whip-chain/weapons-whip-chain-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-whip-chain/weapons-whip-chain.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 143,
+  "generated_at": "2026-03-20T13:08:12.312189+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-whip-chain/weapons-whip-chain-thumb.png"
+}

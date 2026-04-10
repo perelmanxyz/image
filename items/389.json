@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-projector",
+  "name": "Primary Projector",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-projector",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-projector/primary-projector-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-projector/primary-projector.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 179,
+  "generated_at": "2026-03-20T12:36:31.016111+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-projector/primary-projector-thumb.png"
+}

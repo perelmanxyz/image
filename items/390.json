@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-ribbon-first",
+  "name": "Primary Ribbon First",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-ribbon-first",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-ribbon-first/primary-ribbon-first-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-ribbon-first/primary-ribbon-first.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 132,
+  "generated_at": "2026-03-20T12:35:44.617333+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-ribbon-first/primary-ribbon-first-thumb.png"
+}

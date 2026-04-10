@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-fate-cards",
+  "name": "Fantasy Fate Cards",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-fate-cards",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-fate-cards/fantasy-fate-cards-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-fate-cards/fantasy-fate-cards.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 435,
+  "generated_at": "2026-03-20T12:22:58.506076+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-fate-cards/fantasy-fate-cards-thumb.png"
+}

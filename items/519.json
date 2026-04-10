@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-javelin",
+  "name": "Weapons Javelin",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-javelin",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-javelin/weapons-javelin-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-javelin/weapons-javelin.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 135,
+  "generated_at": "2026-03-20T13:04:03.219842+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-javelin/weapons-javelin-thumb.png"
+}

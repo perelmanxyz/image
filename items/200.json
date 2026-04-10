@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-sabatons",
+  "name": "Armor Sabatons",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-sabatons",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-sabatons/armor-sabatons-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-sabatons/armor-sabatons.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 150,
+  "generated_at": "2026-03-20T12:05:54.306370+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-sabatons/armor-sabatons-thumb.png"
+}

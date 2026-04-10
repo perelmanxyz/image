@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-dragon-sword",
+  "name": "Fantasy Dragon Sword",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-dragon-sword",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-dragon-sword/fantasy-dragon-sword-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-dragon-sword/fantasy-dragon-sword.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 112,
+  "generated_at": "2026-03-20T12:16:18.641709+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-dragon-sword/fantasy-dragon-sword-thumb.png"
+}

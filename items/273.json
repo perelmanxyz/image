@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-dragon-egg",
+  "name": "Fantasy Dragon Egg",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-dragon-egg",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-dragon-egg/fantasy-dragon-egg-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-dragon-egg/fantasy-dragon-egg.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 264,
+  "generated_at": "2026-03-20T12:18:44.921285+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-dragon-egg/fantasy-dragon-egg-thumb.png"
+}

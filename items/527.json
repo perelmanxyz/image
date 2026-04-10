@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-morning-star",
+  "name": "Weapons Morning Star",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-morning-star",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-morning-star/weapons-morning-star-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-morning-star/weapons-morning-star.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 189,
+  "generated_at": "2026-03-20T13:06:09.389411+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-morning-star/weapons-morning-star-thumb.png"
+}

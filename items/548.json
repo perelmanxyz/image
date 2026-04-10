@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-zweihander",
+  "name": "Weapons Zweihander",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-zweihander",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-zweihander/weapons-zweihander-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-zweihander/weapons-zweihander.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 98,
+  "generated_at": "2026-03-20T13:07:38.234428+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-zweihander/weapons-zweihander-thumb.png"
+}

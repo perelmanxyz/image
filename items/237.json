@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-fish",
+  "name": "Consumables Fish",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-fish",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-fish/consumables-fish-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-fish/consumables-fish.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 192,
+  "generated_at": "2026-03-20T12:10:50.964012+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-fish/consumables-fish-thumb.png"
+}

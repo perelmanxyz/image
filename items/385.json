@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-plaque-gold",
+  "name": "Primary Plaque Gold",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-plaque-gold",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-plaque-gold/primary-plaque-gold-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-plaque-gold/primary-plaque-gold.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 451,
+  "generated_at": "2026-03-20T12:40:38.937831+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-plaque-gold/primary-plaque-gold-thumb.png"
+}

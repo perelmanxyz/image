@@ -1,0 +1,12 @@
+{
+  "id": "items-bow-with-arrow",
+  "name": "Items Bow With Arrow",
+  "category": "items",
+  "xla_id": "XLA-ITEMS-items-bow-with-arrow",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/items/items-bow-with-arrow/items-bow-with-arrow-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/items/items-bow-with-arrow/items-bow-with-arrow.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 191,
+  "generated_at": "2026-03-12T17:59:56.161048+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/items/items-bow-with-arrow/items-bow-with-arrow-thumb.png"
+}

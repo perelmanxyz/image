@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-rocket-sled",
+  "name": "Vehicles Rocket Sled",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-rocket-sled",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-rocket-sled/vehicles-rocket-sled-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-rocket-sled/vehicles-rocket-sled.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 185,
+  "generated_at": "2026-03-20T13:01:40.920485+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-rocket-sled/vehicles-rocket-sled-thumb.png"
+}

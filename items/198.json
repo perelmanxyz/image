@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-power-fist",
+  "name": "Armor Power Fist",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-power-fist",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-power-fist/armor-power-fist-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-power-fist/armor-power-fist.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 164,
+  "generated_at": "2026-03-20T12:05:25.592302+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-power-fist/armor-power-fist-thumb.png"
+}

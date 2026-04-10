@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-chaos-orb",
+  "name": "Fantasy Chaos Orb",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-chaos-orb",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-chaos-orb/fantasy-chaos-orb-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-chaos-orb/fantasy-chaos-orb.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 229,
+  "generated_at": "2026-03-20T12:16:29.859168+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-chaos-orb/fantasy-chaos-orb-thumb.png"
+}

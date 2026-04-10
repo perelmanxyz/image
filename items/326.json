@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-void-blade",
+  "name": "Fantasy Void Blade",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-void-blade",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-void-blade/fantasy-void-blade-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-void-blade/fantasy-void-blade.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 158,
+  "generated_at": "2026-03-20T12:26:00.717058+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-void-blade/fantasy-void-blade-thumb.png"
+}

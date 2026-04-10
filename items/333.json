@@ -1,0 +1,22 @@
+{
+  "id": "meshy-pets-baby-dragon",
+  "name": "Pets Baby Dragon",
+  "category": "pets",
+  "xla_id": "XLA-BBY31720",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-baby-dragon/pets-baby-dragon-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-baby-dragon/pets-baby-dragon.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 147,
+  "generated_at": "2026-03-20T12:27:24.420061+00:00",
+  "boxed_glb": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-baby-dragon/boxed.glb",
+  "boxed_thumbnail": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-baby-dragon/thumbnails/boxed_front.png",
+  "boxed_thumbnails": {
+    "boxed_front": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-baby-dragon/thumbnails/boxed_front.png",
+    "boxed_front_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-baby-dragon/thumbnails/boxed_front_hires.png",
+    "boxed_isometric": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-baby-dragon/thumbnails/boxed_isometric.png",
+    "boxed_isometric_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-baby-dragon/thumbnails/boxed_isometric_hires.png"
+  },
+  "label_url": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-baby-dragon/label.png",
+  "postprocessed_at": "2026-03-29T16:15:54.115643+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-baby-dragon/pets-baby-dragon-thumb.png"
+}

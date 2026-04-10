@@ -1,0 +1,22 @@
+{
+  "id": "meshy-pets-shadow-wolf",
+  "name": "Pets Shadow Wolf",
+  "category": "pets",
+  "xla_id": "XLA-SHD29677",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-shadow-wolf/pets-shadow-wolf-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-shadow-wolf/pets-shadow-wolf.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 181,
+  "generated_at": "2026-03-20T12:30:10.382682+00:00",
+  "boxed_glb": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-shadow-wolf/boxed.glb",
+  "boxed_thumbnail": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-shadow-wolf/thumbnails/boxed_front.png",
+  "boxed_thumbnails": {
+    "boxed_front": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-shadow-wolf/thumbnails/boxed_front.png",
+    "boxed_front_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-shadow-wolf/thumbnails/boxed_front_hires.png",
+    "boxed_isometric": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-shadow-wolf/thumbnails/boxed_isometric.png",
+    "boxed_isometric_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-shadow-wolf/thumbnails/boxed_isometric_hires.png"
+  },
+  "label_url": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-shadow-wolf/label.png",
+  "postprocessed_at": "2026-03-29T16:54:02.064814+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-shadow-wolf/pets-shadow-wolf-thumb.png"
+}

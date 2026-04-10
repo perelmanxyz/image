@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-whip-leather",
+  "name": "Weapons Whip Leather",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-whip-leather",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-whip-leather/weapons-whip-leather-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-whip-leather/weapons-whip-leather.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 179,
+  "generated_at": "2026-03-20T13:08:52.847696+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-whip-leather/weapons-whip-leather-thumb.png"
+}

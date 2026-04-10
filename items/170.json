@@ -1,0 +1,12 @@
+{
+  "id": "meshy-accessories-mechanical-eye",
+  "name": "Accessories Mechanical Eye",
+  "category": "accessories",
+  "xla_id": "XLA-ACCESSORIES-accessories-mechanical-eye",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/accessories/accessories-mechanical-eye/accessories-mechanical-eye-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/accessories/accessories-mechanical-eye/accessories-mechanical-eye.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 163,
+  "generated_at": "2026-03-20T11:59:38.509050+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/accessories/accessories-mechanical-eye/accessories-mechanical-eye-thumb.png"
+}

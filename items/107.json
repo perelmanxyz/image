@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-scope",
+  "name": "Sci Fi Scope",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-scope",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-scope/sci-fi-scope-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-scope/sci-fi-scope.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 126,
+  "generated_at": "2026-03-12T17:36:03.678644+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-scope/sci-fi-scope-thumb.png"
+}

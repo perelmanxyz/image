@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-buckler",
+  "name": "Armor Buckler",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-buckler",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-buckler/armor-buckler-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-buckler/armor-buckler.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 162,
+  "generated_at": "2026-03-20T12:02:20.681914+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-buckler/armor-buckler-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fantasy-book-clean",
+  "name": "Fantasy Book Clean",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-book-clean",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-book-clean/fantasy-book-clean-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-book-clean/fantasy-book-clean.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 414,
+  "generated_at": "2026-03-12T18:01:26.816743+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-book-clean/fantasy-book-clean-thumb.png"
+}

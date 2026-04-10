@@ -1,0 +1,12 @@
+{
+  "id": "fantasy-scroll",
+  "name": "Fantasy Scroll",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-scroll",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-scroll/fantasy-scroll-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-scroll/fantasy-scroll.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 283,
+  "generated_at": "2026-03-12T17:24:26.932801+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-scroll/fantasy-scroll-thumb.png"
+}

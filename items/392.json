@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-season-pass",
+  "name": "Primary Season Pass",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-season-pass",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-season-pass/primary-season-pass-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-season-pass/primary-season-pass.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 108,
+  "generated_at": "2026-03-20T12:35:55.626540+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-season-pass/primary-season-pass-thumb.png"
+}

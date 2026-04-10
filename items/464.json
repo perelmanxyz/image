@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-pulse-cannon",
+  "name": "Sci Fi Pulse Cannon",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-pulse-cannon",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-pulse-cannon/sci-fi-pulse-cannon-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-pulse-cannon/sci-fi-pulse-cannon.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 247,
+  "generated_at": "2026-03-20T12:53:21.863076+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-pulse-cannon/sci-fi-pulse-cannon-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-hero-medal",
+  "name": "Fantasy Hero Medal",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-hero-medal",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-hero-medal/fantasy-hero-medal-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-hero-medal/fantasy-hero-medal.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 215,
+  "generated_at": "2026-03-20T12:19:57.009452+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-hero-medal/fantasy-hero-medal-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-achievement-trophy",
+  "name": "Sci Fi Achievement Trophy",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-achievement-trophy",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-achievement-trophy/sci-fi-achievement-trophy-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-achievement-trophy/sci-fi-achievement-trophy.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 273,
+  "generated_at": "2026-03-20T12:44:37.544454+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-achievement-trophy/sci-fi-achievement-trophy-thumb.png"
+}

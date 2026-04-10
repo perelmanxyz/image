@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-mining-mech",
+  "name": "Sci Fi Mining Mech",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-mining-mech",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-mining-mech/sci-fi-mining-mech-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-mining-mech/sci-fi-mining-mech.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 271,
+  "generated_at": "2026-03-20T12:51:06.697037+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-mining-mech/sci-fi-mining-mech-thumb.png"
+}

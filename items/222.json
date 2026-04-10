@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-pirate-captain",
+  "name": "Avatars Pirate Captain",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-pirate-captain",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-pirate-captain/avatars-pirate-captain-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-pirate-captain/avatars-pirate-captain.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 203,
+  "generated_at": "2026-03-20T11:53:23.138009+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-pirate-captain/avatars-pirate-captain-thumb.png"
+}

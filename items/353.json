@@ -1,0 +1,22 @@
+{
+  "id": "meshy-pets-vine-sprite",
+  "name": "Pets Vine Sprite",
+  "category": "pets",
+  "xla_id": "XLA-VNS13157",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-vine-sprite/pets-vine-sprite-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-vine-sprite/pets-vine-sprite.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 219,
+  "generated_at": "2026-03-20T12:31:12.809922+00:00",
+  "boxed_glb": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-vine-sprite/boxed.glb",
+  "boxed_thumbnail": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-vine-sprite/thumbnails/boxed_front.png",
+  "boxed_thumbnails": {
+    "boxed_front": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-vine-sprite/thumbnails/boxed_front.png",
+    "boxed_front_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-vine-sprite/thumbnails/boxed_front_hires.png",
+    "boxed_isometric": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-vine-sprite/thumbnails/boxed_isometric.png",
+    "boxed_isometric_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-vine-sprite/thumbnails/boxed_isometric_hires.png"
+  },
+  "label_url": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-vine-sprite/label.png",
+  "postprocessed_at": "2026-03-29T16:58:59.604148+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-vine-sprite/pets-vine-sprite-thumb.png"
+}

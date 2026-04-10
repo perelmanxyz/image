@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-ancient-coin",
+  "name": "Fantasy Ancient Coin",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-ancient-coin",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-ancient-coin/fantasy-ancient-coin-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-ancient-coin/fantasy-ancient-coin.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 187,
+  "generated_at": "2026-03-20T12:14:26.256084+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-ancient-coin/fantasy-ancient-coin-thumb.png"
+}

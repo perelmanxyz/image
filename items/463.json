@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-power-core",
+  "name": "Sci Fi Power Core",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-power-core",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-power-core/sci-fi-power-core-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-power-core/sci-fi-power-core.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 952,
+  "generated_at": "2026-03-20T13:37:45.017932+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-power-core/sci-fi-power-core-thumb.png"
+}

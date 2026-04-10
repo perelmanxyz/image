@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-login-key",
+  "name": "Primary Login Key",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-login-key",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-login-key/primary-login-key-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-login-key/primary-login-key.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 125,
+  "generated_at": "2026-03-20T12:33:24.730574+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-login-key/primary-login-key-thumb.png"
+}

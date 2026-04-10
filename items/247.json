@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-recall-stone",
+  "name": "Consumables Recall Stone",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-recall-stone",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-recall-stone/consumables-recall-stone-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-recall-stone/consumables-recall-stone.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 142,
+  "generated_at": "2026-03-20T12:12:48.336254+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-recall-stone/consumables-recall-stone-thumb.png"
+}

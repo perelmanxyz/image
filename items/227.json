@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-apple",
+  "name": "Consumables Apple",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-apple",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-apple/consumables-apple-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-apple/consumables-apple.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 278,
+  "generated_at": "2026-03-20T12:10:05.873405+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-apple/consumables-apple-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-decoy-doll",
+  "name": "Consumables Decoy Doll",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-decoy-doll",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-decoy-doll/consumables-decoy-doll-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-decoy-doll/consumables-decoy-doll.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 200,
+  "generated_at": "2026-03-20T12:10:27.916452+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-decoy-doll/consumables-decoy-doll-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-headset",
+  "name": "Primary Headset",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-headset",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-headset/primary-headset-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-headset/primary-headset.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 177,
+  "generated_at": "2026-03-20T12:33:11.971472+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-headset/primary-headset-thumb.png"
+}

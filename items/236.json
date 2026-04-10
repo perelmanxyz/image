@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-elixir-red",
+  "name": "Consumables Elixir Red",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-elixir-red",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-elixir-red/consumables-elixir-red-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-elixir-red/consumables-elixir-red.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 171,
+  "generated_at": "2026-03-20T12:10:25.920114+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-elixir-red/consumables-elixir-red-thumb.png"
+}

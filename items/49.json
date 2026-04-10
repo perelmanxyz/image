@@ -1,0 +1,12 @@
+{
+  "id": "primary-bottle",
+  "name": "Primary Bottle",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-bottle",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-bottle/primary-bottle-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-bottle/primary-bottle.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 259,
+  "generated_at": "2026-03-12T18:03:09.642020+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-bottle/primary-bottle-thumb.png"
+}

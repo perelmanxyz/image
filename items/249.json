@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-roast-meat",
+  "name": "Consumables Roast Meat",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-roast-meat",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-roast-meat/consumables-roast-meat-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-roast-meat/consumables-roast-meat.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 135,
+  "generated_at": "2026-03-20T12:12:42.408519+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-roast-meat/consumables-roast-meat-thumb.png"
+}

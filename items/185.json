@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-dragon-scale-chest",
+  "name": "Armor Dragon Scale Chest",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-dragon-scale-chest",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-dragon-scale-chest/armor-dragon-scale-chest-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-dragon-scale-chest/armor-dragon-scale-chest.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 333,
+  "generated_at": "2026-03-20T12:06:03.434072+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-dragon-scale-chest/armor-dragon-scale-chest-thumb.png"
+}

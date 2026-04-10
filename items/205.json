@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-vambrace",
+  "name": "Armor Vambrace",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-vambrace",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-vambrace/armor-vambrace-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-vambrace/armor-vambrace.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 243,
+  "generated_at": "2026-03-20T12:09:04.037507+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-vambrace/armor-vambrace-thumb.png"
+}

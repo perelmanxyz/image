@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-shuriken",
+  "name": "Weapons Shuriken",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-shuriken",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-shuriken/weapons-shuriken-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-shuriken/weapons-shuriken.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 163,
+  "generated_at": "2026-03-20T13:06:56.226438+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-shuriken/weapons-shuriken-thumb.png"
+}

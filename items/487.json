@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-warp-drive",
+  "name": "Sci Fi Warp Drive",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-warp-drive",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-warp-drive/sci-fi-warp-drive-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-warp-drive/sci-fi-warp-drive.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 403,
+  "generated_at": "2026-03-20T13:01:22.161516+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-warp-drive/sci-fi-warp-drive-thumb.png"
+}

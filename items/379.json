@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-magic-chest",
+  "name": "Primary Magic Chest",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-magic-chest",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-magic-chest/primary-magic-chest-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-magic-chest/primary-magic-chest.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 189,
+  "generated_at": "2026-03-20T12:34:49.022942+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-magic-chest/primary-magic-chest-thumb.png"
+}

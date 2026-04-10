@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-scope-clean",
+  "name": "Sci Fi Scope Clean",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-scope-clean",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-scope-clean/sci-fi-scope-clean-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-scope-clean/sci-fi-scope-clean.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 266,
+  "generated_at": "2026-03-12T18:13:37.356767+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-scope-clean/sci-fi-scope-clean-thumb.png"
+}

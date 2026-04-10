@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-incense-stick",
+  "name": "Consumables Incense Stick",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-incense-stick",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-incense-stick/consumables-incense-stick-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-incense-stick/consumables-incense-stick.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 139,
+  "generated_at": "2026-03-20T12:11:23.737674+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-incense-stick/consumables-incense-stick-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-health-potion",
+  "name": "Fantasy Health Potion",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-health-potion",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-health-potion/fantasy-health-potion-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-health-potion/fantasy-health-potion.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 201,
+  "generated_at": "2026-03-20T12:19:39.694125+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-health-potion/fantasy-health-potion-thumb.png"
+}

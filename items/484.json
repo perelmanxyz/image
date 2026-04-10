@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-tracking-beacon",
+  "name": "Sci Fi Tracking Beacon",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-tracking-beacon",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-tracking-beacon/sci-fi-tracking-beacon-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-tracking-beacon/sci-fi-tracking-beacon.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 238,
+  "generated_at": "2026-03-20T12:57:53.365991+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-tracking-beacon/sci-fi-tracking-beacon-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-candle-magic",
+  "name": "Consumables Candle Magic",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-candle-magic",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-candle-magic/consumables-candle-magic-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-candle-magic/consumables-candle-magic.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 188,
+  "generated_at": "2026-03-20T12:09:12.131212+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-candle-magic/consumables-candle-magic-thumb.png"
+}

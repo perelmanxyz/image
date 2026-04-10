@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-hoverbike",
+  "name": "Sci Fi Hoverbike",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-hoverbike",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-hoverbike/sci-fi-hoverbike-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-hoverbike/sci-fi-hoverbike.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 207,
+  "generated_at": "2026-03-20T12:48:25.609957+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-hoverbike/sci-fi-hoverbike-thumb.png"
+}

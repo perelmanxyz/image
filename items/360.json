@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-coin-gold",
+  "name": "Primary Coin Gold",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-coin-gold",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-coin-gold/primary-coin-gold-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-coin-gold/primary-coin-gold.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 141,
+  "generated_at": "2026-03-20T12:31:39.896980+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-coin-gold/primary-coin-gold-thumb.png"
+}

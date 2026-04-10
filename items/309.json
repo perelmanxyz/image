@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-rune-sword",
+  "name": "Fantasy Rune Sword",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-rune-sword",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-rune-sword/fantasy-rune-sword-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-rune-sword/fantasy-rune-sword.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 116,
+  "generated_at": "2026-03-20T12:23:22.159446+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-rune-sword/fantasy-rune-sword-thumb.png"
+}

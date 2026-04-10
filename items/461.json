@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-plasma-rifle",
+  "name": "Sci Fi Plasma Rifle",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-plasma-rifle",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-plasma-rifle/sci-fi-plasma-rifle-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-plasma-rifle/sci-fi-plasma-rifle.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 152,
+  "generated_at": "2026-03-20T12:51:29.338140+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-plasma-rifle/sci-fi-plasma-rifle-thumb.png"
+}

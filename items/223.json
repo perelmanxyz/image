@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-space-marine",
+  "name": "Avatars Space Marine",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-space-marine",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-space-marine/avatars-space-marine-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-space-marine/avatars-space-marine.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 245,
+  "generated_at": "2026-03-20T11:54:05.157268+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-space-marine/avatars-space-marine-thumb.png"
+}

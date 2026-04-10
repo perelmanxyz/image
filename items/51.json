@@ -1,0 +1,12 @@
+{
+  "id": "primary-golden-orb",
+  "name": "Primary Golden Orb",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-golden-orb",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-golden-orb/primary-golden-orb-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-golden-orb/primary-golden-orb.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 273,
+  "generated_at": "2026-03-12T18:03:52.251595+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-golden-orb/primary-golden-orb-thumb.png"
+}

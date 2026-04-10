@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-shadow-dagger",
+  "name": "Fantasy Shadow Dagger",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-shadow-dagger",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-shadow-dagger/fantasy-shadow-dagger-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-shadow-dagger/fantasy-shadow-dagger.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 135,
+  "generated_at": "2026-03-20T12:23:48.666935+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-shadow-dagger/fantasy-shadow-dagger-thumb.png"
+}

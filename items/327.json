@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-void-shard",
+  "name": "Fantasy Void Shard",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-void-shard",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-void-shard/fantasy-void-shard-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-void-shard/fantasy-void-shard.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 127,
+  "generated_at": "2026-03-20T12:25:32.601552+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-void-shard/fantasy-void-shard-thumb.png"
+}

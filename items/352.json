@@ -1,0 +1,22 @@
+{
+  "id": "meshy-pets-thunder-hawk",
+  "name": "Pets Thunder Hawk",
+  "category": "pets",
+  "xla_id": "XLA-THN40149",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-thunder-hawk/pets-thunder-hawk-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-thunder-hawk/pets-thunder-hawk.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 163,
+  "generated_at": "2026-03-20T12:30:11.421366+00:00",
+  "boxed_glb": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-thunder-hawk/boxed.glb",
+  "boxed_thumbnail": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-thunder-hawk/thumbnails/boxed_front.png",
+  "boxed_thumbnails": {
+    "boxed_front": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-thunder-hawk/thumbnails/boxed_front.png",
+    "boxed_front_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-thunder-hawk/thumbnails/boxed_front_hires.png",
+    "boxed_isometric": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-thunder-hawk/thumbnails/boxed_isometric.png",
+    "boxed_isometric_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-thunder-hawk/thumbnails/boxed_isometric_hires.png"
+  },
+  "label_url": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-thunder-hawk/label.png",
+  "postprocessed_at": "2026-03-29T16:58:51.755059+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-thunder-hawk/pets-thunder-hawk-thumb.png"
+}

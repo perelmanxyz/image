@@ -1,0 +1,22 @@
+{
+  "id": "meshy-pets-crystal-fox",
+  "name": "Pets Crystal Fox",
+  "category": "pets",
+  "xla_id": "XLA-CRY87084",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-crystal-fox/pets-crystal-fox-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-crystal-fox/pets-crystal-fox.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 158,
+  "generated_at": "2026-03-20T12:27:41.730906+00:00",
+  "boxed_glb": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-crystal-fox/boxed.glb",
+  "boxed_thumbnail": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-crystal-fox/thumbnails/boxed_front.png",
+  "boxed_thumbnails": {
+    "boxed_front": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-crystal-fox/thumbnails/boxed_front.png",
+    "boxed_front_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-crystal-fox/thumbnails/boxed_front_hires.png",
+    "boxed_isometric": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-crystal-fox/thumbnails/boxed_isometric.png",
+    "boxed_isometric_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-crystal-fox/thumbnails/boxed_isometric_hires.png"
+  },
+  "label_url": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-crystal-fox/label.png",
+  "postprocessed_at": "2026-03-29T16:20:51.858756+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-crystal-fox/pets-crystal-fox-thumb.png"
+}

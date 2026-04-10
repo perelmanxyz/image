@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-router",
+  "name": "Primary Router",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-router",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-router/primary-router-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-router/primary-router.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 478,
+  "generated_at": "2026-03-20T12:41:41.432453+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-router/primary-router-thumb.png"
+}

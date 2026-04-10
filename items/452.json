@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-mission-patch",
+  "name": "Sci Fi Mission Patch",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-mission-patch",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-mission-patch/sci-fi-mission-patch-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-mission-patch/sci-fi-mission-patch.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 175,
+  "generated_at": "2026-03-20T12:49:54.791815+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-mission-patch/sci-fi-mission-patch-thumb.png"
+}

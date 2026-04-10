@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-cyber-helmet",
+  "name": "Armor Cyber Helmet",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-cyber-helmet",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-cyber-helmet/armor-cyber-helmet-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-cyber-helmet/armor-cyber-helmet.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 164,
+  "generated_at": "2026-03-20T12:03:03.751981+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-cyber-helmet/armor-cyber-helmet-thumb.png"
+}

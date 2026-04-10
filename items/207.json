@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-alien-warrior",
+  "name": "Avatars Alien Warrior",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-alien-warrior",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-alien-warrior/avatars-alien-warrior-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-alien-warrior/avatars-alien-warrior.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 260,
+  "generated_at": "2026-03-20T11:54:19.800704+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-alien-warrior/avatars-alien-warrior-thumb.png"
+}

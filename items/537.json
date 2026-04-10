@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-shotgun-sawn",
+  "name": "Weapons Shotgun Sawn",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-shotgun-sawn",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-shotgun-sawn/weapons-shotgun-sawn-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-shotgun-sawn/weapons-shotgun-sawn.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 133,
+  "generated_at": "2026-03-20T13:06:16.678528+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-shotgun-sawn/weapons-shotgun-sawn-thumb.png"
+}

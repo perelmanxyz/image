@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-skin-scroll",
+  "name": "Primary Skin Scroll",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-skin-scroll",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-skin-scroll/primary-skin-scroll-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-skin-scroll/primary-skin-scroll.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 137,
+  "generated_at": "2026-03-20T12:37:27.531870+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-skin-scroll/primary-skin-scroll-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-viking-helm",
+  "name": "Armor Viking Helm",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-viking-helm",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-viking-helm/armor-viking-helm-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-viking-helm/armor-viking-helm.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 315,
+  "generated_at": "2026-03-20T12:10:25.486822+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-viking-helm/armor-viking-helm-thumb.png"
+}

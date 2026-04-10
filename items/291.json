@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-ice-sword",
+  "name": "Fantasy Ice Sword",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-ice-sword",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-ice-sword/fantasy-ice-sword-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-ice-sword/fantasy-ice-sword.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 132,
+  "generated_at": "2026-03-20T12:18:51.748572+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-ice-sword/fantasy-ice-sword-thumb.png"
+}

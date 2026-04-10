@@ -1,0 +1,12 @@
+{
+  "id": "fantasy-book",
+  "name": "Fantasy Book",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-book",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-book/fantasy-book-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-book/fantasy-book.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 168,
+  "generated_at": "2026-03-12T17:20:42.223312+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-book/fantasy-book-thumb.png"
+}

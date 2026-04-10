@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-cup-legendary",
+  "name": "Primary Cup Legendary",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-cup-legendary",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-cup-legendary/primary-cup-legendary-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-cup-legendary/primary-cup-legendary.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 211,
+  "generated_at": "2026-03-20T12:33:07.144089+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-cup-legendary/primary-cup-legendary-thumb.png"
+}

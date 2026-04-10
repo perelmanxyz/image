@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-broom",
+  "name": "Vehicles Broom",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-broom",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-broom/vehicles-broom-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-broom/vehicles-broom.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 274,
+  "generated_at": "2026-03-20T12:59:16.570229+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-broom/vehicles-broom-thumb.png"
+}

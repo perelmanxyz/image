@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-war-scythe",
+  "name": "Weapons War Scythe",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-war-scythe",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-war-scythe/weapons-war-scythe-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-war-scythe/weapons-war-scythe.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 90,
+  "generated_at": "2026-03-20T13:06:59.429193+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-war-scythe/weapons-war-scythe-thumb.png"
+}

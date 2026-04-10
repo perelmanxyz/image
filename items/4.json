@@ -1,0 +1,12 @@
+{
+  "id": "blender-clock-variant3",
+  "name": "Blender Clock Variant3",
+  "category": "blender-experiments",
+  "xla_id": "XLA-BLENDER_EXPERIMENTS-blender-clock-variant3",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/blender-experiments/blender-clock-variant3/blender-clock-variant3-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/blender-experiments/blender-clock-variant3/blender-clock-variant3.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 608,
+  "generated_at": "2026-03-12T18:34:11.827857+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/blender-experiments/blender-clock-variant3/blender-clock-variant3-thumb.png"
+}

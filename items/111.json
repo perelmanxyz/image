@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-segment-clean",
+  "name": "Sci Fi Segment Clean",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-segment-clean",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-segment-clean/sci-fi-segment-clean-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-segment-clean/sci-fi-segment-clean.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 320,
+  "generated_at": "2026-03-12T18:14:56.482340+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-segment-clean/sci-fi-segment-clean-thumb.png"
+}

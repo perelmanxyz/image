@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-vine-whip",
+  "name": "Fantasy Vine Whip",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-vine-whip",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-vine-whip/fantasy-vine-whip-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-vine-whip/fantasy-vine-whip.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 187,
+  "generated_at": "2026-03-20T12:26:26.311556+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-vine-whip/fantasy-vine-whip-thumb.png"
+}

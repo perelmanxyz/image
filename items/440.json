@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-holo-grenade",
+  "name": "Sci Fi Holo Grenade",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-holo-grenade",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-holo-grenade/sci-fi-holo-grenade-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-holo-grenade/sci-fi-holo-grenade.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 158,
+  "generated_at": "2026-03-20T12:47:06.208454+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-holo-grenade/sci-fi-holo-grenade-thumb.png"
+}

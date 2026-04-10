@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-upgrade-stone",
+  "name": "Primary Upgrade Stone",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-upgrade-stone",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-upgrade-stone/primary-upgrade-stone-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-upgrade-stone/primary-upgrade-stone.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 317,
+  "generated_at": "2026-03-20T12:41:18.025475+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-upgrade-stone/primary-upgrade-stone-thumb.png"
+}

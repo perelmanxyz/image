@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-tool-clean",
+  "name": "Sci Fi Tool Clean",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-tool-clean",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-tool-clean/sci-fi-tool-clean-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-tool-clean/sci-fi-tool-clean.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 234,
+  "generated_at": "2026-03-12T18:15:27.331213+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-tool-clean/sci-fi-tool-clean-thumb.png"
+}

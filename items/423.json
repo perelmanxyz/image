@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-cryo-gun",
+  "name": "Sci Fi Cryo Gun",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-cryo-gun",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-cryo-gun/sci-fi-cryo-gun-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-cryo-gun/sci-fi-cryo-gun.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 189,
+  "generated_at": "2026-03-20T12:44:18.120868+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-cryo-gun/sci-fi-cryo-gun-thumb.png"
+}

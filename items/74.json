@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-bow",
+  "name": "Sci Fi Bow",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-bow",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-bow/sci-fi-bow-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-bow/sci-fi-bow.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 129,
+  "generated_at": "2026-03-12T17:26:44.627308+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-bow/sci-fi-bow-thumb.png"
+}

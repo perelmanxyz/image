@@ -1,0 +1,12 @@
+{
+  "id": "primary-monitor",
+  "name": "Primary Monitor",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-monitor",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-monitor/primary-monitor-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-monitor/primary-monitor.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 259,
+  "generated_at": "2026-03-12T18:04:45.099986+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-monitor/primary-monitor-thumb.png"
+}

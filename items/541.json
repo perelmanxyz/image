@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-throwing-knives",
+  "name": "Weapons Throwing Knives",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-throwing-knives",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-throwing-knives/weapons-throwing-knives-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-throwing-knives/weapons-throwing-knives.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 110,
+  "generated_at": "2026-03-20T13:06:49.859789+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-throwing-knives/weapons-throwing-knives-thumb.png"
+}

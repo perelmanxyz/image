@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-camera",
+  "name": "Primary Camera",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-camera",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-camera/primary-camera-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-camera/primary-camera.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 260,
+  "generated_at": "2026-03-20T12:33:20.106713+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-camera/primary-camera-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "avatars-wizard",
+  "name": "Avatars Wizard",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-wizard",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-wizard/avatars-wizard-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-wizard/avatars-wizard.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 202,
+  "generated_at": "2026-03-12T17:54:47.437282+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-wizard/avatars-wizard-thumb.png"
+}

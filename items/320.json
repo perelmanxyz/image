@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-sun-blade",
+  "name": "Fantasy Sun Blade",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-sun-blade",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-sun-blade/fantasy-sun-blade-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-sun-blade/fantasy-sun-blade.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 128,
+  "generated_at": "2026-03-20T12:24:56.802711+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-sun-blade/fantasy-sun-blade-thumb.png"
+}

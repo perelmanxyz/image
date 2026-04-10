@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-plasma-grenade",
+  "name": "Sci Fi Plasma Grenade",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-plasma-grenade",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-plasma-grenade/sci-fi-plasma-grenade-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-plasma-grenade/sci-fi-plasma-grenade.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 161,
+  "generated_at": "2026-03-20T12:51:37.579097+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-plasma-grenade/sci-fi-plasma-grenade-thumb.png"
+}

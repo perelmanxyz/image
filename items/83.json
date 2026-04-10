@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-grenade-a",
+  "name": "Sci Fi Grenade A",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-grenade-a",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-grenade-a/sci-fi-grenade-a-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-grenade-a/sci-fi-grenade-a.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 160,
+  "generated_at": "2026-03-12T17:30:28.680421+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-grenade-a/sci-fi-grenade-a-thumb.png"
+}

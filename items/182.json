@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-circlet-mage",
+  "name": "Armor Circlet Mage",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-circlet-mage",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-circlet-mage/armor-circlet-mage-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-circlet-mage/armor-circlet-mage.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 208,
+  "generated_at": "2026-03-20T12:03:23.779159+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-circlet-mage/armor-circlet-mage-thumb.png"
+}
