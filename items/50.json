@@ -1,0 +1,12 @@
+{
+  "id": "primary-gamepad",
+  "name": "Primary Gamepad",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-gamepad",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-gamepad/primary-gamepad-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-gamepad/primary-gamepad.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 339,
+  "generated_at": "2026-03-12T18:04:35.559236+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-gamepad/primary-gamepad-thumb.png"
+}

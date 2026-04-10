@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-necromancer",
+  "name": "Avatars Necromancer",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-necromancer",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-necromancer/avatars-necromancer-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-necromancer/avatars-necromancer.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 271,
+  "generated_at": "2026-03-20T11:54:30.588670+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-necromancer/avatars-necromancer-thumb.png"
+}

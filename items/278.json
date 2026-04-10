@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-enchanted-bow",
+  "name": "Fantasy Enchanted Bow",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-enchanted-bow",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-enchanted-bow/fantasy-enchanted-bow-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-enchanted-bow/fantasy-enchanted-bow.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 99,
+  "generated_at": "2026-03-20T12:16:36.629098+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-enchanted-bow/fantasy-enchanted-bow-thumb.png"
+}

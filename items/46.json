@@ -1,0 +1,12 @@
+{
+  "id": "objects-ufo",
+  "name": "Objects Ufo",
+  "category": "objects",
+  "xla_id": "XLA-OBJECTS-objects-ufo",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/objects/objects-ufo/objects-ufo-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/objects/objects-ufo/objects-ufo.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 195,
+  "generated_at": "2026-03-12T18:00:55.531655+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/objects/objects-ufo/objects-ufo-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-paladin",
+  "name": "Avatars Paladin",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-paladin",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-paladin/avatars-paladin-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-paladin/avatars-paladin.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 171,
+  "generated_at": "2026-03-20T11:52:50.489986+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-paladin/avatars-paladin-thumb.png"
+}

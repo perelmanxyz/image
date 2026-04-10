@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-gravity-hammer",
+  "name": "Sci Fi Gravity Hammer",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-gravity-hammer",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-gravity-hammer/sci-fi-gravity-hammer-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-gravity-hammer/sci-fi-gravity-hammer.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 170,
+  "generated_at": "2026-03-20T12:46:26.009158+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-gravity-hammer/sci-fi-gravity-hammer-thumb.png"
+}

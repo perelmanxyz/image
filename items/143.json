@@ -1,0 +1,12 @@
+{
+  "id": "slide-usage-druid-dom",
+  "name": "Slide Usage Druid Dom",
+  "category": "3d-slides",
+  "xla_id": "XLA-3D_SLIDES-slide-usage-druid-dom",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/3d-slides/slide-usage-druid-dom/slide-usage-druid-dom-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/3d-slides/slide-usage-druid-dom/slide-usage-druid-dom.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 218,
+  "generated_at": "2026-03-12T17:52:09.601378+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/3d-slides/slide-usage-druid-dom/slide-usage-druid-dom-thumb.png"
+}

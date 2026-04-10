@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-laptop",
+  "name": "Primary Laptop",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-laptop",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-laptop/primary-laptop-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-laptop/primary-laptop.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 259,
+  "generated_at": "2026-03-20T12:35:32.525886+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-laptop/primary-laptop-thumb.png"
+}

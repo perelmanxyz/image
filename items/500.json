@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-phoenix-mount",
+  "name": "Vehicles Phoenix Mount",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-phoenix-mount",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-phoenix-mount/vehicles-phoenix-mount-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-phoenix-mount/vehicles-phoenix-mount.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 241,
+  "generated_at": "2026-03-20T13:02:29.700870+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-phoenix-mount/vehicles-phoenix-mount-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "blender-cube-variant1",
+  "name": "Blender Cube Variant1",
+  "category": "blender-experiments",
+  "xla_id": "XLA-BLENDER_EXPERIMENTS-blender-cube-variant1",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/blender-experiments/blender-cube-variant1/blender-cube-variant1-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/blender-experiments/blender-cube-variant1/blender-cube-variant1.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 262,
+  "generated_at": "2026-03-12T17:56:22.514224+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/blender-experiments/blender-cube-variant1/blender-cube-variant1-thumb.png"
+}

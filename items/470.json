@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-repair-tool",
+  "name": "Sci Fi Repair Tool",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-repair-tool",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-repair-tool/sci-fi-repair-tool-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-repair-tool/sci-fi-repair-tool.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 273,
+  "generated_at": "2026-03-20T12:55:13.030279+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-repair-tool/sci-fi-repair-tool-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-claymore",
+  "name": "Weapons Claymore",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-claymore",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-claymore/weapons-claymore-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-claymore/weapons-claymore.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 144,
+  "generated_at": "2026-03-20T13:03:14.399435+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-claymore/weapons-claymore-thumb.png"
+}

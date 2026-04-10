@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-glaive",
+  "name": "Weapons Glaive",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-glaive",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-glaive/weapons-glaive-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-glaive/weapons-glaive.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 83,
+  "generated_at": "2026-03-20T13:02:54.137860+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-glaive/weapons-glaive-thumb.png"
+}

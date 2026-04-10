@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-power-bank",
+  "name": "Primary Power Bank",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-power-bank",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-power-bank/primary-power-bank-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-power-bank/primary-power-bank.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 141,
+  "generated_at": "2026-03-20T12:35:33.495703+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-power-bank/primary-power-bank-thumb.png"
+}

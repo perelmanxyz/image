@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-pegasus",
+  "name": "Vehicles Pegasus",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-pegasus",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-pegasus/vehicles-pegasus-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-pegasus/vehicles-pegasus.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 221,
+  "generated_at": "2026-03-20T13:01:47.272912+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-pegasus/vehicles-pegasus-thumb.png"
+}

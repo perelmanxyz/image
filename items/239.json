@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-herb-bundle",
+  "name": "Consumables Herb Bundle",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-herb-bundle",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-herb-bundle/consumables-herb-bundle-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-herb-bundle/consumables-herb-bundle.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 359,
+  "generated_at": "2026-03-20T12:14:20.011949+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-herb-bundle/consumables-herb-bundle-thumb.png"
+}

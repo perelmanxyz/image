@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-battery",
+  "name": "Sci Fi Battery",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-battery",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-battery/sci-fi-battery-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-battery/sci-fi-battery.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 174,
+  "generated_at": "2026-03-12T17:27:29.478091+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-battery/sci-fi-battery-thumb.png"
+}

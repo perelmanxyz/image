@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-tether-gun",
+  "name": "Sci Fi Tether Gun",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-tether-gun",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-tether-gun/sci-fi-tether-gun-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-tether-gun/sci-fi-tether-gun.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 140,
+  "generated_at": "2026-03-20T13:21:07.475935+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-tether-gun/sci-fi-tether-gun-thumb.png"
+}

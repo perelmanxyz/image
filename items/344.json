@@ -1,0 +1,22 @@
+{
+  "id": "meshy-pets-mechanical-cat",
+  "name": "Pets Mechanical Cat",
+  "category": "pets",
+  "xla_id": "XLA-MCH33461",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-mechanical-cat/pets-mechanical-cat-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-mechanical-cat/pets-mechanical-cat.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 274,
+  "generated_at": "2026-03-20T12:30:51.737958+00:00",
+  "boxed_glb": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-mechanical-cat/boxed.glb",
+  "boxed_thumbnail": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-mechanical-cat/thumbnails/boxed_front.png",
+  "boxed_thumbnails": {
+    "boxed_front": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-mechanical-cat/thumbnails/boxed_front.png",
+    "boxed_front_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-mechanical-cat/thumbnails/boxed_front_hires.png",
+    "boxed_isometric": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-mechanical-cat/thumbnails/boxed_isometric.png",
+    "boxed_isometric_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-mechanical-cat/thumbnails/boxed_isometric_hires.png"
+  },
+  "label_url": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-mechanical-cat/label.png",
+  "postprocessed_at": "2026-03-29T16:39:48.991374+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-mechanical-cat/pets-mechanical-cat-thumb.png"
+}

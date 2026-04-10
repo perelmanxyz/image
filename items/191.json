@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-knight-helmet",
+  "name": "Armor Knight Helmet",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-knight-helmet",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-knight-helmet/armor-knight-helmet-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-knight-helmet/armor-knight-helmet.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 571,
+  "generated_at": "2026-03-20T12:10:36.296506+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-knight-helmet/armor-knight-helmet-thumb.png"
+}

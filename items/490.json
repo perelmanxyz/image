@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-chariot",
+  "name": "Vehicles Chariot",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-chariot",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-chariot/vehicles-chariot-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-chariot/vehicles-chariot.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 276,
+  "generated_at": "2026-03-20T12:59:34.205314+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-chariot/vehicles-chariot-thumb.png"
+}

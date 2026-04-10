@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-frost-vial",
+  "name": "Fantasy Frost Vial",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-frost-vial",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-frost-vial/fantasy-frost-vial-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-frost-vial/fantasy-frost-vial.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 157,
+  "generated_at": "2026-03-20T12:18:36.768854+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-frost-vial/fantasy-frost-vial-thumb.png"
+}

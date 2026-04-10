@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-ninja-cyber",
+  "name": "Avatars Ninja Cyber",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-ninja-cyber",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-ninja-cyber/avatars-ninja-cyber-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-ninja-cyber/avatars-ninja-cyber.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 231,
+  "generated_at": "2026-03-20T11:53:51.088420+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-ninja-cyber/avatars-ninja-cyber-thumb.png"
+}

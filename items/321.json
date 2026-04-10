@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-sylph-bell",
+  "name": "Fantasy Sylph Bell",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-sylph-bell",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-sylph-bell/fantasy-sylph-bell-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-sylph-bell/fantasy-sylph-bell.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 175,
+  "generated_at": "2026-03-20T12:25:53.566866+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-sylph-bell/fantasy-sylph-bell-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-guardian-bot",
+  "name": "Sci Fi Guardian Bot",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-guardian-bot",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-guardian-bot/sci-fi-guardian-bot-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-guardian-bot/sci-fi-guardian-bot.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 306,
+  "generated_at": "2026-03-20T12:49:14.131484+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-guardian-bot/sci-fi-guardian-bot-thumb.png"
+}

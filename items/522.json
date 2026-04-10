@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-kunai",
+  "name": "Weapons Kunai",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-kunai",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-kunai/weapons-kunai-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-kunai/weapons-kunai.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 172,
+  "generated_at": "2026-03-20T13:05:04.559592+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-kunai/weapons-kunai-thumb.png"
+}

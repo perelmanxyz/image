@@ -1,0 +1,12 @@
+{
+  "id": "primary-megaphone",
+  "name": "Primary Megaphone",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-megaphone",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-megaphone/primary-megaphone-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-megaphone/primary-megaphone.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 289,
+  "generated_at": "2026-03-12T18:05:02.665254+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-megaphone/primary-megaphone-thumb.png"
+}

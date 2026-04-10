@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-bolt-rifle",
+  "name": "Sci Fi Bolt Rifle",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-bolt-rifle",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-bolt-rifle/sci-fi-bolt-rifle-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-bolt-rifle/sci-fi-bolt-rifle.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 134,
+  "generated_at": "2026-03-20T12:42:58.110812+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-bolt-rifle/sci-fi-bolt-rifle-thumb.png"
+}

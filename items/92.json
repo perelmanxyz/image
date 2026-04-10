@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-knife",
+  "name": "Sci Fi Knife",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-knife",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-knife/sci-fi-knife-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-knife/sci-fi-knife.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 209,
+  "generated_at": "2026-03-12T17:33:57.407474+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-knife/sci-fi-knife-thumb.png"
+}

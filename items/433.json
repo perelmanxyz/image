@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-exo-boots",
+  "name": "Sci Fi Exo Boots",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-exo-boots",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-exo-boots/sci-fi-exo-boots-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-exo-boots/sci-fi-exo-boots.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 245,
+  "generated_at": "2026-03-20T12:46:35.569837+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-exo-boots/sci-fi-exo-boots-thumb.png"
+}

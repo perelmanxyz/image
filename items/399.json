@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-smartwatch",
+  "name": "Primary Smartwatch",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-smartwatch",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-smartwatch/primary-smartwatch-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-smartwatch/primary-smartwatch.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 315,
+  "generated_at": "2026-03-20T12:40:43.189013+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-smartwatch/primary-smartwatch-thumb.png"
+}

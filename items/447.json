@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-mech-bracers",
+  "name": "Sci Fi Mech Bracers",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-mech-bracers",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-mech-bracers/sci-fi-mech-bracers-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-mech-bracers/sci-fi-mech-bracers.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 292,
+  "generated_at": "2026-03-20T12:50:50.914111+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-mech-bracers/sci-fi-mech-bracers-thumb.png"
+}

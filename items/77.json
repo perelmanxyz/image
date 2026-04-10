@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-brief-case",
+  "name": "Sci Fi Brief Case",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-brief-case",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-brief-case/sci-fi-brief-case-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-brief-case/sci-fi-brief-case.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 370,
+  "generated_at": "2026-03-12T17:32:54.867610+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-brief-case/sci-fi-brief-case-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-dragon-mount",
+  "name": "Vehicles Dragon Mount",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-dragon-mount",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-dragon-mount/vehicles-dragon-mount-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-dragon-mount/vehicles-dragon-mount.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 336,
+  "generated_at": "2026-03-20T13:00:49.684392+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-dragon-mount/vehicles-dragon-mount-thumb.png"
+}

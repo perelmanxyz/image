@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-bard",
+  "name": "Avatars Bard",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-bard",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-bard/avatars-bard-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-bard/avatars-bard.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 248,
+  "generated_at": "2026-03-20T11:54:07.402040+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-bard/avatars-bard-thumb.png"
+}

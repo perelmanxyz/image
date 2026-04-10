@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-1000-gems",
+  "name": "Sci Fi 1000 Gems",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-1000-gems",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-1000-gems/sci-fi-1000-gems-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-1000-gems/sci-fi-1000-gems.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 204,
+  "generated_at": "2026-03-12T17:27:59.245457+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-1000-gems/sci-fi-1000-gems-thumb.png"
+}

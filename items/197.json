@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-plate-chest",
+  "name": "Armor Plate Chest",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-plate-chest",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-plate-chest/armor-plate-chest-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-plate-chest/armor-plate-chest.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 516,
+  "generated_at": "2026-03-20T12:11:02.129441+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-plate-chest/armor-plate-chest-thumb.png"
+}

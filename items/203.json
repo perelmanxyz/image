@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-sci-fi-chest",
+  "name": "Armor Sci Fi Chest",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-sci-fi-chest",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-sci-fi-chest/armor-sci-fi-chest-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-sci-fi-chest/armor-sci-fi-chest.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 417,
+  "generated_at": "2026-03-20T12:11:19.143941+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-sci-fi-chest/armor-sci-fi-chest-thumb.png"
+}

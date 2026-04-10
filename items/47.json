@@ -1,0 +1,12 @@
+{
+  "id": "primary-axe",
+  "name": "Primary Axe",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-axe",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-axe/primary-axe-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-axe/primary-axe.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 174,
+  "generated_at": "2026-03-12T18:01:28.344131+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-axe/primary-axe-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-inventory-bag",
+  "name": "Primary Inventory Bag",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-inventory-bag",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-inventory-bag/primary-inventory-bag-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-inventory-bag/primary-inventory-bag.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 271,
+  "generated_at": "2026-03-20T12:35:10.279661+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-inventory-bag/primary-inventory-bag-thumb.png"
+}

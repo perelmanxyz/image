@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-key",
+  "name": "Sci Fi Key",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-key",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-key/sci-fi-key-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-key/sci-fi-key.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 186,
+  "generated_at": "2026-03-12T17:32:33.199205+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-key/sci-fi-key-thumb.png"
+}

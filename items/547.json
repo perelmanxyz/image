@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-wrist-blade",
+  "name": "Weapons Wrist Blade",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-wrist-blade",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-wrist-blade/weapons-wrist-blade-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-wrist-blade/weapons-wrist-blade.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 159,
+  "generated_at": "2026-03-20T13:08:39.039412+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-wrist-blade/weapons-wrist-blade-thumb.png"
+}

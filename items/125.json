@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-treasure-chest",
+  "name": "Sci Fi Treasure Chest",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-treasure-chest",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-treasure-chest/sci-fi-treasure-chest-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-treasure-chest/sci-fi-treasure-chest.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 270,
+  "generated_at": "2026-03-12T17:41:48.535672+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-treasure-chest/sci-fi-treasure-chest-thumb.png"
+}

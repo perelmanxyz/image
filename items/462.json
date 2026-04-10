@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-power-chest",
+  "name": "Sci Fi Power Chest",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-power-chest",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-power-chest/sci-fi-power-chest-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-power-chest/sci-fi-power-chest.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 555,
+  "generated_at": "2026-03-20T12:58:27.977509+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-power-chest/sci-fi-power-chest-thumb.png"
+}

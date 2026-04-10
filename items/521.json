@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-katar",
+  "name": "Weapons Katar",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-katar",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-katar/weapons-katar-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-katar/weapons-katar.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 103,
+  "generated_at": "2026-03-20T13:03:45.819871+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-katar/weapons-katar-thumb.png"
+}

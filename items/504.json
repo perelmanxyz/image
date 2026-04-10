@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-steampunk-bike",
+  "name": "Vehicles Steampunk Bike",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-steampunk-bike",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-steampunk-bike/vehicles-steampunk-bike-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-steampunk-bike/vehicles-steampunk-bike.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 432,
+  "generated_at": "2026-03-20T13:06:28.990052+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-steampunk-bike/vehicles-steampunk-bike-thumb.png"
+}

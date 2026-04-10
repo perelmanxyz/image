@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-sky-galleon",
+  "name": "Vehicles Sky Galleon",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-sky-galleon",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-sky-galleon/vehicles-sky-galleon-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-sky-galleon/vehicles-sky-galleon.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 409,
+  "generated_at": "2026-03-20T13:05:59.656086+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-sky-galleon/vehicles-sky-galleon-thumb.png"
+}

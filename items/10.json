@@ -1,0 +1,12 @@
+{
+  "id": "blender-key-variant1",
+  "name": "Blender Key Variant1",
+  "category": "blender-experiments",
+  "xla_id": "XLA-BLENDER_EXPERIMENTS-blender-key-variant1",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/blender-experiments/blender-key-variant1/blender-key-variant1-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/blender-experiments/blender-key-variant1/blender-key-variant1.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 179,
+  "generated_at": "2026-03-12T17:55:27.433325+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/blender-experiments/blender-key-variant1/blender-key-variant1-thumb.png"
+}

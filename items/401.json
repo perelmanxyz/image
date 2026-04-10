@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-star-award",
+  "name": "Primary Star Award",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-star-award",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-star-award/primary-star-award-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-star-award/primary-star-award.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 339,
+  "generated_at": "2026-03-20T12:41:13.004495+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-star-award/primary-star-award-thumb.png"
+}

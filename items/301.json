@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-mana-potion",
+  "name": "Fantasy Mana Potion",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-mana-potion",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-mana-potion/fantasy-mana-potion-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-mana-potion/fantasy-mana-potion.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 173,
+  "generated_at": "2026-03-20T12:22:00.099704+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-mana-potion/fantasy-mana-potion-thumb.png"
+}

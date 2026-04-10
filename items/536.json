@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-scimitar",
+  "name": "Weapons Scimitar",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-scimitar",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-scimitar/weapons-scimitar-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-scimitar/weapons-scimitar.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 187,
+  "generated_at": "2026-03-20T13:06:59.697798+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-scimitar/weapons-scimitar-thumb.png"
+}

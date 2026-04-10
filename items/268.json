@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-crystal-blade",
+  "name": "Fantasy Crystal Blade",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-crystal-blade",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-crystal-blade/fantasy-crystal-blade-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-crystal-blade/fantasy-crystal-blade.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 154,
+  "generated_at": "2026-03-20T12:15:26.115063+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-crystal-blade/fantasy-crystal-blade-thumb.png"
+}

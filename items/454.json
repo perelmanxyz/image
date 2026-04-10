@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-nano-drone",
+  "name": "Sci Fi Nano Drone",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-nano-drone",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-nano-drone/sci-fi-nano-drone-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-nano-drone/sci-fi-nano-drone.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 264,
+  "generated_at": "2026-03-20T13:23:10.773888+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-nano-drone/sci-fi-nano-drone-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-mage-ring",
+  "name": "Fantasy Mage Ring",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-mage-ring",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-mage-ring/fantasy-mage-ring-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-mage-ring/fantasy-mage-ring.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 268,
+  "generated_at": "2026-03-20T12:22:31.295038+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-mage-ring/fantasy-mage-ring-thumb.png"
+}

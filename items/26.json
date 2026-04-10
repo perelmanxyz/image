@@ -1,0 +1,12 @@
+{
+  "id": "fantasy-potion",
+  "name": "Fantasy Potion",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-potion",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-potion/fantasy-potion-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-potion/fantasy-potion.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 295,
+  "generated_at": "2026-03-12T17:22:49.752802+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-potion/fantasy-potion-thumb.png"
+}

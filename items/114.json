@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-shield-clean",
+  "name": "Sci Fi Shield Clean",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-shield-clean",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-shield-clean/sci-fi-shield-clean-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-shield-clean/sci-fi-shield-clean.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 156,
+  "generated_at": "2026-03-12T18:12:42.451541+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-shield-clean/sci-fi-shield-clean-thumb.png"
+}

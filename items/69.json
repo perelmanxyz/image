@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-battery-clean",
+  "name": "Sci Fi Battery Clean",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-battery-clean",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-battery-clean/sci-fi-battery-clean-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-battery-clean/sci-fi-battery-clean.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 245,
+  "generated_at": "2026-03-12T18:05:57.465488+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-battery-clean/sci-fi-battery-clean-thumb.png"
+}

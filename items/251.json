@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-smoke-grenade",
+  "name": "Consumables Smoke Grenade",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-smoke-grenade",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-smoke-grenade/consumables-smoke-grenade-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-smoke-grenade/consumables-smoke-grenade.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 123,
+  "generated_at": "2026-03-20T12:12:40.022118+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-smoke-grenade/consumables-smoke-grenade-thumb.png"
+}

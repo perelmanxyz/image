@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-ley-stone",
+  "name": "Fantasy Ley Stone",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-ley-stone",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-ley-stone/fantasy-ley-stone-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-ley-stone/fantasy-ley-stone.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 165,
+  "generated_at": "2026-03-20T12:19:58.354710+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-ley-stone/fantasy-ley-stone-thumb.png"
+}

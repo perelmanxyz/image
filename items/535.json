@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-saber",
+  "name": "Weapons Saber",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-saber",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-saber/weapons-saber-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-saber/weapons-saber.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 134,
+  "generated_at": "2026-03-20T13:05:59.828845+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-saber/weapons-saber-thumb.png"
+}

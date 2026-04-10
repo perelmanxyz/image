@@ -1,0 +1,12 @@
+{
+  "id": "primary-shield",
+  "name": "Primary Shield",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-shield",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-shield/primary-shield-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-shield/primary-shield.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 245,
+  "generated_at": "2026-03-12T18:05:25.909037+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-shield/primary-shield-thumb.png"
+}

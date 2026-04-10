@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-skill-book",
+  "name": "Primary Skill Book",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-skill-book",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-skill-book/primary-skill-book-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-skill-book/primary-skill-book.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 342,
+  "generated_at": "2026-03-20T12:40:40.993347+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-skill-book/primary-skill-book-thumb.png"
+}

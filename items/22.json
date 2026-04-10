@@ -1,0 +1,12 @@
+{
+  "id": "fantasy-book-sticker",
+  "name": "Fantasy Book Sticker",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-book-sticker",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-book-sticker/fantasy-book-sticker-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-book-sticker/fantasy-book-sticker.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 178,
+  "generated_at": "2026-03-12T17:57:40.093801+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-book-sticker/fantasy-book-sticker-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-bounty-hunter",
+  "name": "Avatars Bounty Hunter",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-bounty-hunter",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-bounty-hunter/avatars-bounty-hunter-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-bounty-hunter/avatars-bounty-hunter.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 251,
+  "generated_at": "2026-03-20T11:54:10.740410+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-bounty-hunter/avatars-bounty-hunter-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-scatter-shot",
+  "name": "Sci Fi Scatter Shot",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-scatter-shot",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-scatter-shot/sci-fi-scatter-shot-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-scatter-shot/sci-fi-scatter-shot.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 230,
+  "generated_at": "2026-03-20T12:54:41.782290+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-scatter-shot/sci-fi-scatter-shot-thumb.png"
+}

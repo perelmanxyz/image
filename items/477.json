@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-space-mine",
+  "name": "Sci Fi Space Mine",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-space-mine",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-space-mine/sci-fi-space-mine-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-space-mine/sci-fi-space-mine.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 437,
+  "generated_at": "2026-03-20T12:59:16.360692+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-space-mine/sci-fi-space-mine-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-staff-arcane",
+  "name": "Weapons Staff Arcane",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-staff-arcane",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-staff-arcane/weapons-staff-arcane-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-staff-arcane/weapons-staff-arcane.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 99,
+  "generated_at": "2026-03-20T13:06:07.341328+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-staff-arcane/weapons-staff-arcane-thumb.png"
+}

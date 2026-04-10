@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-brigandine",
+  "name": "Armor Brigandine",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-brigandine",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-brigandine/armor-brigandine-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-brigandine/armor-brigandine.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 313,
+  "generated_at": "2026-03-20T12:02:08.971755+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-brigandine/armor-brigandine-thumb.png"
+}

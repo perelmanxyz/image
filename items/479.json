@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-stealth-cloak",
+  "name": "Sci Fi Stealth Cloak",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-stealth-cloak",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-stealth-cloak/sci-fi-stealth-cloak-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-stealth-cloak/sci-fi-stealth-cloak.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 182,
+  "generated_at": "2026-03-20T13:24:55.211564+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-stealth-cloak/sci-fi-stealth-cloak-thumb.png"
+}

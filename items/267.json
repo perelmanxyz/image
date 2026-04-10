@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-crown-jewel",
+  "name": "Fantasy Crown Jewel",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-crown-jewel",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-crown-jewel/fantasy-crown-jewel-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-crown-jewel/fantasy-crown-jewel.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 401,
+  "generated_at": "2026-03-20T12:19:29.654134+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-crown-jewel/fantasy-crown-jewel-thumb.png"
+}

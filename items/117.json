@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-sphere-clean",
+  "name": "Sci Fi Sphere Clean",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-sphere-clean",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-sphere-clean/sci-fi-sphere-clean-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-sphere-clean/sci-fi-sphere-clean.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 454,
+  "generated_at": "2026-03-12T18:18:30.736033+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-sphere-clean/sci-fi-sphere-clean-thumb.png"
+}

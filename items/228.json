@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-bandage-roll",
+  "name": "Consumables Bandage Roll",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-bandage-roll",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-bandage-roll/consumables-bandage-roll-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-bandage-roll/consumables-bandage-roll.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 177,
+  "generated_at": "2026-03-20T12:08:28.233859+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-bandage-roll/consumables-bandage-roll-thumb.png"
+}

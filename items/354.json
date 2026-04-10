@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-ankh-gold",
+  "name": "Primary Ankh Gold",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-ankh-gold",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-ankh-gold/primary-ankh-gold-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-ankh-gold/primary-ankh-gold.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 128,
+  "generated_at": "2026-03-20T12:29:50.681078+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-ankh-gold/primary-ankh-gold-thumb.png"
+}

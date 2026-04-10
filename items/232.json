@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-cheese-wheel",
+  "name": "Consumables Cheese Wheel",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-cheese-wheel",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-cheese-wheel/consumables-cheese-wheel-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-cheese-wheel/consumables-cheese-wheel.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 194,
+  "generated_at": "2026-03-20T12:09:45.435856+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-cheese-wheel/consumables-cheese-wheel-thumb.png"
+}

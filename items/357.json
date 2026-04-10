@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-backpack-icon",
+  "name": "Primary Backpack Icon",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-backpack-icon",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-backpack-icon/primary-backpack-icon-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-backpack-icon/primary-backpack-icon.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 187,
+  "generated_at": "2026-03-20T12:31:51.770415+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-backpack-icon/primary-backpack-icon-thumb.png"
+}

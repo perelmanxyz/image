@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-greaves-shin",
+  "name": "Armor Greaves Shin",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-greaves-shin",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-greaves-shin/armor-greaves-shin-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-greaves-shin/armor-greaves-shin.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 215,
+  "generated_at": "2026-03-20T12:04:21.813851+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-greaves-shin/armor-greaves-shin-thumb.png"
+}

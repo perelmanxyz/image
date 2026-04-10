@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-halberd",
+  "name": "Weapons Halberd",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-halberd",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-halberd/weapons-halberd-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-halberd/weapons-halberd.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 84,
+  "generated_at": "2026-03-20T13:03:03.569889+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-halberd/weapons-halberd-thumb.png"
+}

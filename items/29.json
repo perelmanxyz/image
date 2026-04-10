@@ -1,0 +1,12 @@
+{
+  "id": "fantasy-rune",
+  "name": "Fantasy Rune",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-rune",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-rune/fantasy-rune-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-rune/fantasy-rune.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 188,
+  "generated_at": "2026-03-12T17:21:02.857386+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-rune/fantasy-rune-thumb.png"
+}

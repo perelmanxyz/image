@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-treasure-map",
+  "name": "Consumables Treasure Map",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-treasure-map",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-treasure-map/consumables-treasure-map-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-treasure-map/consumables-treasure-map.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 280,
+  "generated_at": "2026-03-20T12:15:42.761102+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-treasure-map/consumables-treasure-map-thumb.png"
+}

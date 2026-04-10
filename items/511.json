@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-bo-staff",
+  "name": "Weapons Bo Staff",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-bo-staff",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-bo-staff/weapons-bo-staff-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-bo-staff/weapons-bo-staff.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 93,
+  "generated_at": "2026-03-20T13:02:12.473690+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-bo-staff/weapons-bo-staff-thumb.png"
+}

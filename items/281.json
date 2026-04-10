@@ -1,0 +1,12 @@
+{
+  "id": "meshy-fantasy-enchanted-lens",
+  "name": "Fantasy Enchanted Lens",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-enchanted-lens",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-enchanted-lens/fantasy-enchanted-lens-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-enchanted-lens/fantasy-enchanted-lens.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 209,
+  "generated_at": "2026-03-20T12:19:06.281559+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/fantasy/fantasy-enchanted-lens/fantasy-enchanted-lens-thumb.png"
+}

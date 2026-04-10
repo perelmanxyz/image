@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-lock",
+  "name": "Sci Fi Lock",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-lock",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-lock/sci-fi-lock-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-lock/sci-fi-lock.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 147,
+  "generated_at": "2026-03-12T17:35:00.474071+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-lock/sci-fi-lock-thumb.png"
+}

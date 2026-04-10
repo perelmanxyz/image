@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-ninja-hood",
+  "name": "Armor Ninja Hood",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-ninja-hood",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-ninja-hood/armor-ninja-hood-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-ninja-hood/armor-ninja-hood.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 214,
+  "generated_at": "2026-03-20T12:05:00.754258+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-ninja-hood/armor-ninja-hood-thumb.png"
+}

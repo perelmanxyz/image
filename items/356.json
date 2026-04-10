@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-avatar-frame",
+  "name": "Primary Avatar Frame",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-avatar-frame",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-avatar-frame/primary-avatar-frame-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-avatar-frame/primary-avatar-frame.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 135,
+  "generated_at": "2026-03-20T12:30:17.798844+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-avatar-frame/primary-avatar-frame-thumb.png"
+}

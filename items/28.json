@@ -1,0 +1,12 @@
+{
+  "id": "fantasy-potion-sticker",
+  "name": "Fantasy Potion Sticker",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-potion-sticker",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-potion-sticker/fantasy-potion-sticker-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-potion-sticker/fantasy-potion-sticker.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 120,
+  "generated_at": "2026-03-12T17:57:20.359721+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-potion-sticker/fantasy-potion-sticker-thumb.png"
+}

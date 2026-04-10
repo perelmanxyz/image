@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-segment",
+  "name": "Sci Fi Segment",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-segment",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-segment/sci-fi-segment-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-segment/sci-fi-segment.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 176,
+  "generated_at": "2026-03-12T17:37:24.141624+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/sci-fi/sci-fi-segment/sci-fi-segment-thumb.png"
+}

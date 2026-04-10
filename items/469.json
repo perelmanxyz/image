@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-recon-visor",
+  "name": "Sci Fi Recon Visor",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-recon-visor",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-recon-visor/sci-fi-recon-visor-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-recon-visor/sci-fi-recon-visor.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 189,
+  "generated_at": "2026-03-20T12:53:41.203377+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-recon-visor/sci-fi-recon-visor-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "primary-letter",
+  "name": "Primary Letter",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-letter",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-letter/primary-letter-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-letter/primary-letter.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 394,
+  "generated_at": "2026-03-12T18:06:46.595421+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/primary-items/primary-letter/primary-letter-thumb.png"
+}

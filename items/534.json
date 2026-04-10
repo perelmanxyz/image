@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-rapier",
+  "name": "Weapons Rapier",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-rapier",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-rapier/weapons-rapier-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-rapier/weapons-rapier.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 154,
+  "generated_at": "2026-03-20T13:06:10.953221+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-rapier/weapons-rapier-thumb.png"
+}

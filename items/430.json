@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-energy-cell",
+  "name": "Sci Fi Energy Cell",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-energy-cell",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-energy-cell/sci-fi-energy-cell-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-energy-cell/sci-fi-energy-cell.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 163,
+  "generated_at": "2026-03-20T12:44:27.700434+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-energy-cell/sci-fi-energy-cell-thumb.png"
+}

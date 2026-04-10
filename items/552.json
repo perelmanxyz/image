@@ -1,0 +1,13 @@
+{
+  "id": "kaedim-mask-low",
+  "name": "Kaedim Mask Low",
+  "category": "accessories",
+  "xla_id": "XLA-ACCESSORIES-kaedim-mask-low",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/kaedim/Xsolla_sample_02.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/kaedim/mask_low.fbx",
+  "cost_usd": 0,
+  "generation_seconds": 0,
+  "generated_at": "2026-03-26T00:00:00.000000+00:00",
+  "source": "kaedim",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/kaedim/Xsolla_sample_02.png"
+}

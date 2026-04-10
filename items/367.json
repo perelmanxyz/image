@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-founder-badge",
+  "name": "Primary Founder Badge",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-founder-badge",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-founder-badge/primary-founder-badge-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-founder-badge/primary-founder-badge.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 213,
+  "generated_at": "2026-03-20T12:33:32.042311+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-founder-badge/primary-founder-badge-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-lamellar-vest",
+  "name": "Armor Lamellar Vest",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-lamellar-vest",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-lamellar-vest/armor-lamellar-vest-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-lamellar-vest/armor-lamellar-vest.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 324,
+  "generated_at": "2026-03-20T12:06:35.657976+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-lamellar-vest/armor-lamellar-vest-thumb.png"
+}

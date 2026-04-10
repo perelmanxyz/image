@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-phase-blade",
+  "name": "Sci Fi Phase Blade",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-phase-blade",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-phase-blade/sci-fi-phase-blade-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-phase-blade/sci-fi-phase-blade.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 96,
+  "generated_at": "2026-03-20T12:50:02.538928+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-phase-blade/sci-fi-phase-blade-thumb.png"
+}

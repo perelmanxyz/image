@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-battle-fan",
+  "name": "Weapons Battle Fan",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-battle-fan",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-battle-fan/weapons-battle-fan-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-battle-fan/weapons-battle-fan.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 127,
+  "generated_at": "2026-03-20T13:01:53.389361+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-battle-fan/weapons-battle-fan-thumb.png"
+}

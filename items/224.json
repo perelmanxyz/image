@@ -1,0 +1,12 @@
+{
+  "id": "meshy-avatars-void-hunter",
+  "name": "Avatars Void Hunter",
+  "category": "avatars",
+  "xla_id": "XLA-AVATARS-avatars-void-hunter",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-void-hunter/avatars-void-hunter-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-void-hunter/avatars-void-hunter.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 266,
+  "generated_at": "2026-03-20T11:54:25.581441+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/avatars/avatars-void-hunter/avatars-void-hunter-thumb.png"
+}

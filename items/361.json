@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-crystal-award",
+  "name": "Primary Crystal Award",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-crystal-award",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-crystal-award/primary-crystal-award-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-crystal-award/primary-crystal-award.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 149,
+  "generated_at": "2026-03-20T12:32:02.238377+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-crystal-award/primary-crystal-award-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-jump-pack",
+  "name": "Sci Fi Jump Pack",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-jump-pack",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-jump-pack/sci-fi-jump-pack-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-jump-pack/sci-fi-jump-pack.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 332,
+  "generated_at": "2026-03-20T12:50:39.679125+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-jump-pack/sci-fi-jump-pack-thumb.png"
+}

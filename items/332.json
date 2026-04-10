@@ -1,0 +1,22 @@
+{
+  "id": "meshy-pets-astral-crab",
+  "name": "Pets Astral Crab",
+  "category": "pets",
+  "xla_id": "XLA-STR07622",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-astral-crab/pets-astral-crab-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-astral-crab/pets-astral-crab.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 174,
+  "generated_at": "2026-03-20T12:27:47.196209+00:00",
+  "boxed_glb": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-astral-crab/boxed.glb",
+  "boxed_thumbnail": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-astral-crab/thumbnails/boxed_front.png",
+  "boxed_thumbnails": {
+    "boxed_front": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-astral-crab/thumbnails/boxed_front.png",
+    "boxed_front_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-astral-crab/thumbnails/boxed_front_hires.png",
+    "boxed_isometric": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-astral-crab/thumbnails/boxed_isometric.png",
+    "boxed_isometric_hires": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-astral-crab/thumbnails/boxed_isometric_hires.png"
+  },
+  "label_url": "https://storage.googleapis.com/x3d-output/assets/imagine/pets/pets-astral-crab/label.png",
+  "postprocessed_at": "2026-03-29T16:15:49.340262+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/pets/pets-astral-crab/pets-astral-crab-thumb.png"
+}

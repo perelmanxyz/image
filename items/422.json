@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-command-pauldron",
+  "name": "Sci Fi Command Pauldron",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-command-pauldron",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-command-pauldron/sci-fi-command-pauldron-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-command-pauldron/sci-fi-command-pauldron.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 260,
+  "generated_at": "2026-03-20T12:45:28.388578+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-command-pauldron/sci-fi-command-pauldron-thumb.png"
+}

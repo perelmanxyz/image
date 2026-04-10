@@ -1,0 +1,12 @@
+{
+  "id": "meshy-primary-trophy-golden",
+  "name": "Primary Trophy Golden",
+  "category": "primary-items",
+  "xla_id": "XLA-PRIMARY_ITEMS-primary-trophy-golden",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-trophy-golden/primary-trophy-golden-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-trophy-golden/primary-trophy-golden.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 243,
+  "generated_at": "2026-03-20T12:40:04.055109+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/primary-items/primary-trophy-golden/primary-trophy-golden-thumb.png"
+}

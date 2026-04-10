@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-heavy-shield",
+  "name": "Sci Fi Heavy Shield",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-heavy-shield",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-heavy-shield/sci-fi-heavy-shield-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-heavy-shield/sci-fi-heavy-shield.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 161,
+  "generated_at": "2026-03-20T12:46:59.359449+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-heavy-shield/sci-fi-heavy-shield-thumb.png"
+}

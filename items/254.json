@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-trap-spring",
+  "name": "Consumables Trap Spring",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-trap-spring",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-trap-spring/consumables-trap-spring-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-trap-spring/consumables-trap-spring.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 192,
+  "generated_at": "2026-03-20T12:14:03.559705+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-trap-spring/consumables-trap-spring-thumb.png"
+}

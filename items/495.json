@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-griffon",
+  "name": "Vehicles Griffon",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-griffon",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-griffon/vehicles-griffon-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-griffon/vehicles-griffon.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 170,
+  "generated_at": "2026-03-20T12:59:23.651222+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-griffon/vehicles-griffon-thumb.png"
+}

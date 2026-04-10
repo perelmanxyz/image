@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-gondola-magic",
+  "name": "Vehicles Gondola Magic",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-gondola-magic",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-gondola-magic/vehicles-gondola-magic-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-gondola-magic/vehicles-gondola-magic.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 262,
+  "generated_at": "2026-03-20T13:00:43.382100+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-gondola-magic/vehicles-gondola-magic-thumb.png"
+}

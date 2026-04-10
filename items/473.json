@@ -1,0 +1,12 @@
+{
+  "id": "meshy-sci-fi-shield-generator",
+  "name": "Sci Fi Shield Generator",
+  "category": "sci-fi",
+  "xla_id": "XLA-SCI_FI-sci-fi-shield-generator",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-shield-generator/sci-fi-shield-generator-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-shield-generator/sci-fi-shield-generator.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 367,
+  "generated_at": "2026-03-20T13:28:00.759052+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/sci-fi/sci-fi-shield-generator/sci-fi-shield-generator-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-net-gladiator",
+  "name": "Weapons Net Gladiator",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-net-gladiator",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-net-gladiator/weapons-net-gladiator-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-net-gladiator/weapons-net-gladiator.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 248,
+  "generated_at": "2026-03-20T13:07:12.423324+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-net-gladiator/weapons-net-gladiator-thumb.png"
+}

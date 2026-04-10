@@ -1,0 +1,12 @@
+{
+  "id": "fantasy-potion-clean",
+  "name": "Fantasy Potion Clean",
+  "category": "fantasy",
+  "xla_id": "XLA-FANTASY-fantasy-potion-clean",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-potion-clean/fantasy-potion-clean-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-potion-clean/fantasy-potion-clean.glb",
+  "cost_usd": 0.02,
+  "generation_seconds": 302,
+  "generated_at": "2026-03-12T18:00:12.792389+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-potion-clean/fantasy-potion-clean-thumb.png"
+}

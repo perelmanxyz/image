@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-spell-scroll",
+  "name": "Consumables Spell Scroll",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-spell-scroll",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-spell-scroll/consumables-spell-scroll-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-spell-scroll/consumables-spell-scroll.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 210,
+  "generated_at": "2026-03-20T12:14:17.867600+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-spell-scroll/consumables-spell-scroll-thumb.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meshy-armor-pauldron-left",
+  "name": "Armor Pauldron Left",
+  "category": "armor",
+  "xla_id": "XLA-ARMOR-armor-pauldron-left",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-pauldron-left/armor-pauldron-left-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-pauldron-left/armor-pauldron-left.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 486,
+  "generated_at": "2026-03-20T12:10:27.038276+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/armor/armor-pauldron-left/armor-pauldron-left-thumb.png"
+}

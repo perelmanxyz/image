@@ -1,0 +1,12 @@
+{
+  "id": "meshy-weapons-sling",
+  "name": "Weapons Sling",
+  "category": "weapons",
+  "xla_id": "XLA-WEAPONS-weapons-sling",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-sling/weapons-sling-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-sling/weapons-sling.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 194,
+  "generated_at": "2026-03-20T13:07:32.959305+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/weapons/weapons-sling/weapons-sling-thumb.png"
+}

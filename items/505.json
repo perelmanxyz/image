@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-submarine",
+  "name": "Vehicles Submarine",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-submarine",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-submarine/vehicles-submarine-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-submarine/vehicles-submarine.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 136,
+  "generated_at": "2026-03-20T13:01:39.509642+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-submarine/vehicles-submarine-thumb.png"
+}

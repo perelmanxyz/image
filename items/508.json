@@ -1,0 +1,12 @@
+{
+  "id": "meshy-vehicles-wyvern-mount",
+  "name": "Vehicles Wyvern Mount",
+  "category": "vehicles",
+  "xla_id": "XLA-VEHICLES-vehicles-wyvern-mount",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-wyvern-mount/vehicles-wyvern-mount-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-wyvern-mount/vehicles-wyvern-mount.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 210,
+  "generated_at": "2026-03-20T13:03:05.262969+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/vehicles/vehicles-wyvern-mount/vehicles-wyvern-mount-thumb.png"
+}

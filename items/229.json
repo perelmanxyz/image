@@ -1,0 +1,12 @@
+{
+  "id": "meshy-consumables-bomb-round",
+  "name": "Consumables Bomb Round",
+  "category": "consumables",
+  "xla_id": "XLA-CONSUMABLES-consumables-bomb-round",
+  "thumbnail": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-bomb-round/consumables-bomb-round-thumb.png",
+  "glb": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-bomb-round/consumables-bomb-round.glb",
+  "cost_usd": 0.3,
+  "generation_seconds": 146,
+  "generated_at": "2026-03-20T12:08:04.078233+00:00",
+  "image": "https://storage.googleapis.com/x3d-output/assets/meshy-gcs/consumables/consumables-bomb-round/consumables-bomb-round-thumb.png"
+}
