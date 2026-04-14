@@ -1,0 +1,37 @@
+{
+  "name": "BazaarHero #14",
+  "description": "A devoted healer who keeps the Bazaar's champions fighting through every battle. Few possess such power.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-bowman/avatars-bowman-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Healer"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 28.76,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rank",
+      "value": 144,
+      "display_type": "number"
+    }
+  ]
+}

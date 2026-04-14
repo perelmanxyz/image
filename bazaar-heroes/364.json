@@ -1,0 +1,37 @@
+{
+  "name": "BazaarHero #364",
+  "description": "A swift shadow operative who controls the underground economy of the Bazaar. A force of nature in the Bazaar.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-bowman/avatars-bowman-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Rogue"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dagger"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 29.66,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rank",
+      "value": 101,
+      "display_type": "number"
+    }
+  ]
+}

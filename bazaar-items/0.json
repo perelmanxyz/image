@@ -1,0 +1,32 @@
+{
+  "name": "Tube",
+  "description": "A compact metal tube used to channel and amplify energy blasts. Lightweight and easy to carry, it serves as a basic ranged tool widely traded across the Bazaar.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/3d-slides/slide-ingame-image16/slide-ingame-image16-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Consumable"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Effect",
+      "value": "Damage"
+    },
+    {
+      "trait_type": "Slot",
+      "value": "Hands"
+    },
+    {
+      "trait_type": "Extra Trait",
+      "value": "Range: Medium"
+    },
+    {
+      "trait_type": "Quantity",
+      "value": 100,
+      "display_type": "number"
+    }
+  ]
+}

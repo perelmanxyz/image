@@ -1,0 +1,37 @@
+{
+  "name": "BazaarHero #708",
+  "description": "A battle-hardened warrior forged in the fires of the Xsolla Bazaar arenas. A force of nature in the Bazaar.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-bowman/avatars-bowman-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Heavy"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 31.77,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rank",
+      "value": 59,
+      "display_type": "number"
+    }
+  ]
+}

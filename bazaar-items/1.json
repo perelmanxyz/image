@@ -1,0 +1,32 @@
+{
+  "name": "Stun Grenade",
+  "description": "A volatile throwable device that emits a blinding flash and concussive shockwave on impact. Temporarily disables enemies and disrupts marketplace standoffs.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/3d-slides/slide-ingame-image19/slide-ingame-image19-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Equipment"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Effect",
+      "value": "Stun"
+    },
+    {
+      "trait_type": "Slot",
+      "value": "N/A"
+    },
+    {
+      "trait_type": "Extra Trait",
+      "value": "Stun Duration: 3s"
+    },
+    {
+      "trait_type": "Quantity",
+      "value": 100,
+      "display_type": "number"
+    }
+  ]
+}

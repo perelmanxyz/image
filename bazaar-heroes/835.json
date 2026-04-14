@@ -1,0 +1,37 @@
+{
+  "name": "BazaarHero #835",
+  "description": "A devoted healer who keeps the Bazaar's champions fighting through every battle. One of many, but not without purpose.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-bowman/avatars-bowman-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Healer"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Heavy"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 19.36,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rank",
+      "value": 602,
+      "display_type": "number"
+    }
+  ]
+}

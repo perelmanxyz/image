@@ -1,0 +1,32 @@
+{
+  "name": "Bazaar Coin",
+  "description": "The foundational currency of the Xsolla Bazaar ecosystem. Minted in a fixed supply of 1,000, each coin is identical and fully tradeable on-chain. Stack them, trade them, spend them.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/fantasy/fantasy-three-coins/fantasy-three-coins-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Currency"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Effect",
+      "value": "None"
+    },
+    {
+      "trait_type": "Slot",
+      "value": "N/A"
+    },
+    {
+      "trait_type": "Extra Trait",
+      "value": "Stack Size: 1000"
+    },
+    {
+      "trait_type": "Quantity",
+      "value": 1000,
+      "display_type": "number"
+    }
+  ]
+}

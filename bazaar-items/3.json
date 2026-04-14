@@ -1,0 +1,32 @@
+{
+  "name": "Scope",
+  "description": "A precision optical attachment forged in the Xsolla Bazaar workshops. Enhances target acquisition at long range and integrates with most ranged weapons.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/3d-slides/slide-usage-item-796/slide-usage-item-796-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Material"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Effect",
+      "value": "Accuracy"
+    },
+    {
+      "trait_type": "Slot",
+      "value": "Accessory"
+    },
+    {
+      "trait_type": "Extra Trait",
+      "value": "Range Bonus: +40%"
+    },
+    {
+      "trait_type": "Quantity",
+      "value": 100,
+      "display_type": "number"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Sphere",
+  "description": "A shimmering orb infused with restorative energy, brewed by the alchemists of Xsolla Bazaar. Restores vitality and cures minor ailments. Widely traded in bulk.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/3d-slides/slide-ingame-sphere/slide-ingame-sphere-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Consumable"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Effect",
+      "value": "Healing"
+    },
+    {
+      "trait_type": "Slot",
+      "value": "N/A"
+    },
+    {
+      "trait_type": "Extra Trait",
+      "value": "Stack Size: 50"
+    },
+    {
+      "trait_type": "Quantity",
+      "value": 100,
+      "display_type": "number"
+    }
+  ]
+}

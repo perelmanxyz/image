@@ -1,0 +1,32 @@
+{
+  "name": "Amulet",
+  "description": "An enchanted talisman imbued with the protective magic of Xsolla Bazaar. Worn around the neck, it passively shields the bearer and boosts their marketplace presence.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/3d-slides/slide13-image-838/slide13-image-838-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Equipment"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Effect",
+      "value": "Defense"
+    },
+    {
+      "trait_type": "Slot",
+      "value": "Neck"
+    },
+    {
+      "trait_type": "Extra Trait",
+      "value": "Magic Resist: +25"
+    },
+    {
+      "trait_type": "Quantity",
+      "value": 100,
+      "display_type": "number"
+    }
+  ]
+}

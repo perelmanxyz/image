@@ -1,0 +1,37 @@
+{
+  "name": "BazaarHero #352",
+  "description": "An arcane scholar who mastered forbidden spells deep within the Bazaar vaults. Spoken of in whispers across the entire realm.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-bowman/avatars-bowman-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Staff"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Heavy"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 41.56,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rank",
+      "value": 21,
+      "display_type": "number"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "BazaarHero #440",
+  "description": "An arcane scholar who mastered forbidden spells deep within the Bazaar vaults. Harder to find, sharper in skill.",
+  "image": "https://storage.googleapis.com/x3d-output/assets/avatars/avatars-bowman/avatars-bowman-thumb.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Staff"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 21.18,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Rank",
+      "value": 378,
+      "display_type": "number"
+    }
+  ]
+}
